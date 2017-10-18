@@ -1,6 +1,6 @@
 body {
 background: lightgreen; /* For browsers that do not support gradients */
-background: linear-gradient(to right,lightgreen,lightblue, blue, indigo, violet);
+background: linear-gradient(to right,lightgreen,green, blue, indigo, violet);
 }
 
 h1 {
@@ -23,3 +23,9 @@ p {
   font-family: monospace;
   font-size: 16px;
 }
+
+h4 {
+  color:#cfdef9;
+  text-align: center;
+  font-family: monospace;
+  font-size: 24px;
