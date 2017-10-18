@@ -1,8 +1,8 @@
 body {
-  background: wheat;
+  background: lightgreen;
   background-image:
-    radial-gradient(salmon 20%, transparent 0), 
-    radial-gradient(salmon 20%, transparent 0);
+    radial-gradient(white 20%, transparent 0), 
+    radial-gradient(white 20%, transparent 0);
   background-size: 30px 30px;
   background-position: 0 0, 15px 15px;
 }
