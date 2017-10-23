@@ -1,7 +1,7 @@
 body {
-  background: red; /* For browsers that do not support gradients */
+  background: blue; /* For browsers that do not support gradients */
   /* For Safari 5.1 to 6.0 */
-  background: -webkit-repeating-radial-gradient(red, yellow 10%, green 15%);
+  background: -webkit-repeating-radial-gradient(blue, indigo 10%, purple 15%);
   /* For Opera 11.6 to 12.0 */
   background: -o-repeating-radial-gradient(red, yellow 10%, green 15%);
   /* For Firefox 3.6 to 15 */
