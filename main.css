@@ -20,11 +20,17 @@ h1 {
   font-size: 48px; 
 }
   
-h2, h3, h4, h5, h6 {
+h2 {
   color: #f4f8ff; 
   text-align: center; 
   font-family: fantasy; 
   font-size: 36px; 
+  
+h3, h4, h5, h6 {
+  color: #f4f8ff;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 30px;
 
 p {
     color: #f4f8ff;
