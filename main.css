@@ -1,25 +1,30 @@
-body { 
+<body> { 
   background-image: url("abstract_art_colorful_colors_design_illustration_light_theme_1920x1080.jpg"); 
+  background-size: 100%; 
 }
+</body>
 
-h1 {
+<h1> {
   color: #f4f8ff;
   text-align: center;
   font-family: fantasy;
   font-size: 48px; 
 }
+</h1>
   
-h2, h3, h4, h5, h6 {
+<h2, h3, h4, h5, h6> {
   color: #f4f8ff; 
   text-align: center; 
   font-family: fantasy; 
   font-size: 36px; 
+</h2, /h3, /h4, /h5, /h6>
 
-p {
+<p> {
   color: #f4f8ff;
   text-align: center;
   font-family: monospace;
   font-size: 16px;
   line-height: 1.5; 
 }
+</p>
 
