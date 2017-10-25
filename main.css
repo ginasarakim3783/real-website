@@ -29,7 +29,7 @@ p {
     font-family: 'Libre Baskerville', serif;
     font-size: 20px;
 }
-
+@media (max-width: 200px;)
 table {
   color: #f4f8ff;
   text-align: center;
@@ -39,7 +39,7 @@ table {
   margin-right: auto; 
 }
 
-@media (max-width: 200px;)
+
 ol {
   color: #f4f8ff;
   font-family: 'Libre Baskerville', serif;
