@@ -26,13 +26,13 @@ h2, h3, h4, h5, h6 {
 table, td, th {    
     border: 4px solid #f0d1ff;
     text-align: center;
-    color: white;
+    color: #ffffff;
     width: 100%
     background:background: #e6b2ff; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#e6b2ff, purple); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#e6b2ff, purple); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#e6b2ff, purple); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#e6b2ff, purple); /* Standard syntax */
+    background: -webkit-linear-gradient(#e6b2ff, #62028e); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#e6b2ff, #62028e); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#e6b2ff, #62028e); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#e6b2ff, #62028e); /* Standard syntax */
 }
 
 table {
@@ -65,7 +65,7 @@ text-align: left;
 }
     
 .boxed {
-  border: 8px solid white;
+  border: 8px solid #ffffff;
  background-color: #8b8f96;
 }
 
