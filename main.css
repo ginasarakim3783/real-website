@@ -44,6 +44,7 @@ ol {
 }
     
 .boxed {
-  border: 1px solid white;
+  border: 8px solid white;
+ background-color: #8b8f96;
 }
 
