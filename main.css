@@ -32,14 +32,23 @@ p {
 }
 
 table {
-  color: #f4f8ff;
-  text-align: center;
-  font-family: 'Libre Baskerville', serif;
-  font-size: 18px;
-  margin-left: auto; 
-  margin-right: auto; 
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  table-layout: fixed;
+  width: 100%;
 }
-
+table tr {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
 
 ol {
   color: #f4f8ff;
