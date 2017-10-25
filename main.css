@@ -37,16 +37,13 @@ table, td, th {
 table {
     border-collapse: collapse;
     width: 100%;
+	
 }
 
 th, td {
     padding: 15px;
     line-height: 1.5;
 }
-
-ol {
-	text-align: left;
-    }
 
 p {
     color: #f4f8ff;
@@ -60,7 +57,8 @@ p {
 ol {
   color: #f4f8ff;
   font-family: 'Libre Baskerville', serif;
-  font-size: 20px;
+  font-size: 16px;
+text-align: left;
 }
     
 .boxed {
