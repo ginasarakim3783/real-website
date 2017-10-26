@@ -81,18 +81,18 @@ div {
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
-    0%   {background: url(dollar-bill.jpg); left:0px; top:0px;}
-    25%  {background: url(dollar-bill.jpg); left:400px; top:0px;}
-    50%  {background: url(dollar-bill.jpg); left:400px; top:500px;}
-    75%  {background: url(dollar-bill.jpg); left:0px; top:500px;}
-    100% {background: url(dollar-bill.jpg); left:0px; top:0px;}
+    0%   {background: url(keepcalm.png); left:0px; top:0px;}
+    25%  {background: url(keepcalm.png); left:400px; top:0px;}
+    50%  {background: url(keepcalm.png); left:400px; top:500px;}
+    75%  {background: url(keepcalm.png); left:0px; top:500px;}
+    100% {background: url(keepcalm.png); left:0px; top:0px;}
 }
 
 /* Standard syntax */
 @keyframes example {
-    0%   {background: url(dollar-bill.jpg); left:0px; top:0px;}
-    25%  {background: url(dollar-bill.jpg); left:400px; top:0px;}
-    50%  {background: url(dollar-bill.jpg); left:400px; top:500px;}
-    75%  {background: url(dollar-bill.jpg); left:0px; top:500px;}
-    100% {background: url(dollar-bill.jpg); left:0px; top:0px;}
+    0%   {background: url(keepcalm.png); left:0px; top:0px;}
+    25%  {background: url(keepcalm.png); left:400px; top:0px;}
+    50%  {background: url(keepcalm.png); left:400px; top:500px;}
+    75%  {background: url(keepcalm.png); left:0px; top:500px;}
+    100% {background: url(keepcalm.png); left:0px; top:0px;}
 }
