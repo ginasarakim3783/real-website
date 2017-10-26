@@ -23,10 +23,7 @@ h2, h3, h4, h5, h6 {
   font-size: 36px; 
 }
 
-body {
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.25;
-}
+
 table {
   border: 1px solid #ccc;
   border-collapse: collapse;
