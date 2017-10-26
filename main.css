@@ -15,7 +15,12 @@ h1 {
   font-family: 'Pacifico', cursive;
   font-size: 48px; 
   border: 5px solid #ffffff;
-  background: #d89eff;
+  background:
+    background: #d8a5ef; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#d8a5ef, #6d1f91); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#d8a5ef, #6d1f91); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#d8a5ef, #6d1f91); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#d8a5ef, #6d1f91); /* Standard syntax */
 }
   
 h2, h3, h4, h5, h6 {
