@@ -33,8 +33,6 @@ h2, h3, h4, h5, h6 {
     background: -moz-linear-gradient(#d8a5ef, #6d1f91); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#d8a5ef, #6d1f91); /* Standard syntax */
     color: #f8eaff
-   font-family: 'Libre Baskerville', serif;
-   font-size: 16px;
 }
 
 table {
@@ -59,7 +57,7 @@ ol {
   color: #f4f8ff;
   font-family: 'Libre Baskerville', serif;
   font-size: 16px;
-text-align: left;
+  text-align: left;
 }
     
 .boxed {
