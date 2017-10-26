@@ -77,22 +77,17 @@ div {
     -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
     animation-name: example;
     animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
     0%   {background: url(keepcalm.png); left:0px; top:0px;}
     25%  {background: url(keepcalm.png); left:700px; top:0px;}
-    50%  {background: url(keepcalm.png); left:700px; top:500px;}
-    75%  {background: url(keepcalm.png); left:0px; top:500px;}
-    100% {background: url(keepcalm.png); left:0px; top:0px;}
 }
 
 /* Standard syntax */
 @keyframes example {
     0%   {background: url(keepcalm.png); left:0px; top:0px;}
     25%  {background: url(keepcalm.png); left:700px; top:0px;}
-    50%  {background: url(keepcalm.png); left:700px; top:500px;}
-    75%  {background: url(keepcalm.png); left:0px; top:500px;}
-    100% {background: url(keepcalm.png); left:0px; top:0px;}
 }
